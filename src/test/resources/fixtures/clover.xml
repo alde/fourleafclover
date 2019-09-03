@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1567109530509" clover="3.2.0">
+  <project timestamp="1567109530509" name="All files">
+    <metrics statements="8237" coveredstatements="6296" conditionals="4587" coveredconditionals="3250" methods="2648" coveredmethods="1858" elements="15472" coveredelements="11404" complexity="0" loc="8237" ncloc="8237" packages="137" files="550" classes="550"/>
+    <package name="base package">
+      <metrics statements="7" coveredstatements="7" conditionals="3" coveredconditionals="3" methods="2" coveredmethods="2"/>
+      <file name="fileOne.js" path="/opt/foobarApp/fileOne.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="fileTwo.js" path="/opt/foobarApp/fileTwo.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="fileThree.js" path="/opt/foobarApp/fileThree.js">
+        <metrics statements="7" coveredstatements="7" conditionals="3" coveredconditionals="3" methods="2" coveredmethods="2"/>
+        <line num="26" count="296" type="stmt"/>
+        <line num="32" count="296" type="stmt"/>
+        <line num="33" count="296" type="stmt"/>
+        <line num="34" count="17" type="stmt"/>
+        <line num="37" count="296" type="cond" truecount="2" falsecount="0"/>
+        <line num="40" count="323" type="stmt"/>
+        <line num="55" count="323" type="stmt"/>
+      </file>
+    </package>
+    <package name="another package">
+      <metrics statements="31" coveredstatements="20" conditionals="0" coveredconditionals="0" methods="11" coveredmethods="6"/>
+      <file name="fileFour.js" path="/opt/foobarApp/another_package/fileFour.js">
+        <metrics statements="7" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="44" count="0" type="stmt"/>
+        <line num="46" count="0" type="stmt"/>
+        <line num="50" count="0" type="stmt"/>
+        <line num="75" count="0" type="stmt"/>
+        <line num="77" count="0" type="stmt"/>
+        <line num="78" count="0" type="stmt"/>
+      </file>
+      <file name="fileFive.js" path="/opt/foobarApp/another_package/fileFive.js">
+        <metrics statements="2" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+        <line num="6" count="7" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+      </file>
+      <file name="fileSix.js" path="/opt/foobarApp/another_package/fileSix.js">
+        <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+      </file>
+      <file name="fileSeven.js" path="/opt/foobarApp/another_package/fileSeven.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="12" count="120" type="stmt"/>
+        <line num="50" count="120" type="stmt"/>
+        <line num="67" count="120" type="stmt"/>
+      </file>
+      <file name="fileEight.js" path="/opt/foobarApp/another_package/fileEight.js">
+        <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="12" count="287" type="stmt"/>
+        <line num="39" count="287" type="stmt"/>
+        <line num="161" count="287" type="stmt"/>
+        <line num="162" count="287" type="stmt"/>
+        <line num="329" count="287" type="stmt"/>
+        <line num="334" count="287" type="stmt"/>
+        <line num="340" count="287" type="stmt"/>
+        <line num="343" count="287" type="stmt"/>
+        <line num="346" count="287" type="stmt"/>
+        <line num="363" count="287" type="stmt"/>
+      </file>
+      <file name="fileNine.js" path="/opt/foobarApp/another_package/fileNine.js">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="5" count="314" type="stmt"/>
+        <line num="8" count="7031" type="stmt"/>
+        <line num="11" count="7031" type="stmt"/>
+        <line num="12" count="7031" type="stmt"/>
+        <line num="19" count="1380" type="stmt"/>
+        <line num="20" count="1380" type="stmt"/>
+      </file>
+    </package>
+    <package name="yet another package">
+      <metrics statements="8" coveredstatements="8" conditionals="4" coveredconditionals="4" methods="4" coveredmethods="4"/>
+      <file name="packageFile.js" path="/opt/foobarApp/yet_another_package/packageFile.js">
+        <metrics statements="8" coveredstatements="8" conditionals="4" coveredconditionals="4" methods="4" coveredmethods="4"/>
+        <line num="6" count="9" type="stmt"/>
+        <line num="7" count="9" type="cond" truecount="2" falsecount="0"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="13" count="8" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="18" count="7" type="cond" truecount="2" falsecount="0"/>
+        <line num="19" count="6" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
