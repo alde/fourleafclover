@@ -1,5 +1,6 @@
 # Four Leaf Clover
-
+[![CircleCI](https://circleci.com/gh/alde/fourleafclover/tree/master.svg?style=svg)](https://circleci.com/gh/alde/fourleafclover/tree/master)
+![Maven Central](https://img.shields.io/maven-central/v/nu.alde/fourleafclover.svg?style=flat-square)
 ## Installation
 
 ```xml
