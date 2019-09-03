@@ -17,7 +17,7 @@ dependencies {
     implementation("com.fasterxml.jackson.core:jackson-annotations:2.9.9")
     implementation("com.fasterxml.jackson.core:jackson-core:2.9.9")
     implementation("com.fasterxml.jackson.dataformat:jackson-dataformat-xml:2.9.9")
-    implementation("com.fasterxml.jackson.module:jackson-module-kotlin:2.9.+")
+    implementation("com.fasterxml.jackson.module:jackson-module-kotlin:2.9.9")
 
 
     testImplementation(platform("org.junit:junit-bom:5.5.1"))
